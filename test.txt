@@ -8,3 +8,4 @@ this is from test2
 this is the final line
 this is new testing of the branching
 this is from t3
+this is a new line by t2
